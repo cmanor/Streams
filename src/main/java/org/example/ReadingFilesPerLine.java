@@ -14,6 +14,7 @@ public class ReadingFilesPerLine {
         Scanner scanner = new Scanner(System.in);
     }
 
+
     public static List<String> read(String file) {
         List<String> lines = new ArrayList<>();
         try {

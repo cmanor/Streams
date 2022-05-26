@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Hold {
 
+
     private ArrayList<Suitcase> suitcases;
     private int maximumWeight;
 
